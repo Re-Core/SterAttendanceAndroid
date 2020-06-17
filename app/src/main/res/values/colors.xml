@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#5388FF</color>
+    <color name="colorPrimaryDark">#407BFF</color>
+    <color name="colorAccent">#7EA3FF</color>
+
+    <color name="darkBlue">#407BFF</color>
+    <color name="normalBlue">#5388FF</color>
+    <color name="transparentBlue">#7EA3FF</color>
+
+    <color name="dialogBG">#F7F7F7</color>
+
+    <color name="green">#62C554</color>
+    <color name="red">#EE6C60</color>
+    <color name="white">#ffffff</color>
+
+</resources>

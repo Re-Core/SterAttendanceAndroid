@@ -1,0 +1,5 @@
+include ':poi-ooxml-schemas-3.151'
+include ':poi-ooxml-3.151'
+include ':poi-3.151'
+rootProject.name='Ster AttendanceV3'
+include ':app'
